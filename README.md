@@ -1,1 +1,1 @@
-using a virtual machine
+git and github account
